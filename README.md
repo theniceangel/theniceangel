@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hi there, I'm JiZhi 👋
 
 Now I'm working at didi as a FE.
