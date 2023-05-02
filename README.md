@@ -1,6 +1,6 @@
 ### Hi there, I'm JiZhi 👋
 
-Now I'm working at didi as a FE.
+Now I'm working at Zoom as a FE.
 
 **Languages and Tools:**  
 
